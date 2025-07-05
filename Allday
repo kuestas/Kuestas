@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>ALLDAY Style</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>ALLDAY PROJECT Fanpage</h1>
+    <p>Edgy – Monochrom – Authentisch</p>
+  </header>
+
+  <section class="hero">
+    <h2>Welcome</h2>
+    <p>Hier findest du Bilder und News zu ALLDAY PROJECT.</p>
+  </section>
+
+  <section class="cards">
+    <div class="card">
+      <img src="annie.jpg" alt="Annie ALLDAY">
+      <h3>Annie</h3>
+      <p>Monochromes Outfit mit Leder</p>
+    </div>
+    <div class="card">
+      <img src="tarzzan.jpg" alt="Tarzzan ALLDAY">
+      <h3>Tarzzan</h3>
+      <p>Strong visuals & stylische Ausstrahlung</p>
+    </div>
+    <div class="card">
+      <img src="bailey.jpg" alt="Bailey ALLDAY">
+      <h3>Bailey</h3>
+      <p>Charisma & Performance</p>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 ALLDAY Fanpage</p>
+  </footer>
+</body>
+</html>
